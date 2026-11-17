@@ -1,3 +1,4 @@
+import { PrintEditionItem } from './task.js';
 describe('Домашнее задание к лекции «Классы в JavaScript»', () => {
 
   describe('Задача №1', () => {

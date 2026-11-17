@@ -1,3 +1,4 @@
+import { Student } from './task.js';
 describe('Домашнее задание к лекции «Классы». Дополнительное задание', () => {
   describe('Задача №3', () => {
     let student;
